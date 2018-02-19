@@ -1,0 +1,4 @@
+[26-Jan-2018 01:57:24 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/webepjfl/public_html/diary/updatenotebookapp/notebookapp/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 18
+[26-Jan-2018 01:57:26 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/webepjfl/public_html/diary/updatenotebookapp/notebookapp/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 18
+[26-Jan-2018 01:57:28 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/webepjfl/public_html/diary/updatenotebookapp/notebookapp/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 18
+[26-Jan-2018 01:57:29 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/webepjfl/public_html/diary/updatenotebookapp/notebookapp/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 18
